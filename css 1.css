@@ -10,10 +10,11 @@ tr {
     background: rgb(48, 47, 47);
     }
     .merah {
-    color:black;
+    color:rgb(255, 255, 255);
     text-align:center ;
     background :white;
     }
     .koplak {
     color:darkblue;
     }
+    
